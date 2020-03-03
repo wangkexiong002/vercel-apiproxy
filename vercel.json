@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/disqusjs/(.*)",
+      "destination": "https://disqus.com/api/$1"
+    }
+  ]
+}
